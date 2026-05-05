@@ -1,3 +1,3 @@
 # Notas
 
-Ferramenta de linha de comando que imprime uma citação aleatória ou por índice.
+CLI que gera N UUIDs v4 e opcionalmente escreve em arquivo.
