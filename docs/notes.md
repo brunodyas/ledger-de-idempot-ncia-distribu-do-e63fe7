@@ -1,3 +1,3 @@
 # Notas
 
-Registo de chaves de idempotência com TTL, deduplicação de pedidos e contratos claros para clientes da API.
+Endpoints /health e /ready, métricas Prometheus-style ou estrutura preparada, logging correlacionado por request-id.
