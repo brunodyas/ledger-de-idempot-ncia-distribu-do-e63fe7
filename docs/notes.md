@@ -1,3 +1,3 @@
 # Notas
 
-CLI que gera N UUIDs v4 e opcionalmente escreve em arquivo.
+Serviço HTTP mínimo com GET /health devolvendo JSON de estado (sem dependências externas).
