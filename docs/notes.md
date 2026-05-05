@@ -1,3 +1,3 @@
 # Notas
 
-Endpoints /health e /ready, métricas Prometheus-style ou estrutura preparada, logging correlacionado por request-id.
+Ferramenta de linha de comando que imprime uma citação aleatória ou por índice.
